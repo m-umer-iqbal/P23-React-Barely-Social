@@ -1,0 +1,6 @@
+[submodule "P23-Barely-Social-Frontend"]
+	path = P23-Barely-Social-Frontend
+	url = https://github.com/m-umer-iqbal/P23-Barely-Social-Frontend.git
+[submodule "P23-Barely-Social-Backend"]
+	path = P23-Barely-Social-Backend
+	url = https://github.com/m-umer-iqbal/P23-Barely-Social-Backend.git
