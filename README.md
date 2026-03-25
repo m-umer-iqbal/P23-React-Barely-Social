@@ -28,13 +28,13 @@ You **must** clone this repo with submodules.
 ### ✅ Correct Way (Recommended)
 
 ```bash
-git clone --recurse-submodules https://github.com/your-username/fullstack-project.git
+git clone --recurse-submodules https://github.com/m-umer-iqbal/P23-React-Barely-Social.git
 ```
 
 ### ❌ Wrong Way (Will NOT download frontend/backend)
 
 ```bash
-git clone https://github.com/your-username/fullstack-project.git
+git clone https://github.com/m-umer-iqbal/P23-React-Barely-Social.git
 ```
 
 If you already cloned the wrong way, fix it by running:
